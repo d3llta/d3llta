@@ -8,7 +8,7 @@
   <img width="49%" height="195px" 
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3llta&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
-   <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=d3llta&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=d3llta&theme=midnight-purple"/>
   </a>
 </div>
 
